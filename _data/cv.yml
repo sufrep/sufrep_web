@@ -21,7 +21,5 @@
 - title: Currently Academic Interests
   type: nested_list
   contents:
-    - title: Fabrication of novel devices/circuits
-    - title: Preparation and characterization of functional materials
-    - title: Devices/Robots design related to nanotechnology
-    - title: Energy storage involving novel materials
+    - title: Fabrication and characterization of novel material device, nanotechnology
+    - title: Transport properties and other properties related to condensed matter physics of materials
